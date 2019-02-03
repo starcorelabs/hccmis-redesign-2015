@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
 
-* HCCMIS Web Site Responsive Redesign
+* HCCMIS Web Site Responsive Redesign of https://www.hccmis.com
 * These are template files for the Cascade Server CMS.
 * 2015-06-01 Version Alpha 3.0
 
