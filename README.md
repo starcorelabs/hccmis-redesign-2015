@@ -1,4 +1,5 @@
 # README #
+![HCCMIS](https://github.com/starcorelabs/hccmis-redesign-2015/blob/master/screenshot.png)
 
 ### What is this repository for? ###
 
